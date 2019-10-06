@@ -1,1 +1,4 @@
-# react-native-snippets
+# React Native Snippets
+
+## Platform check
+Platform.OS === ('android' || 'ios')
