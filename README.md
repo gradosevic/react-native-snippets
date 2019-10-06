@@ -28,3 +28,7 @@ Fore expo useers, it's good to add additional packages
 ```javascript
 expo install react-native-gesture-handler react-native-reanimated
 ```
+
+```javascript
+props.navigation.navigate({routeName: 'RouteName'})
+```
